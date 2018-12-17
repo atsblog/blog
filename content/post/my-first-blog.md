@@ -41,10 +41,10 @@ draft: false
 
 * 客户端工具推荐-vscode
 
-如果没有好用的客户端工具，推荐vscode
+如果没有好用的客户端工具，推荐`vscode`
 
-安装插件：Markdown All in One、Markdown Preview Enhanced
+安装插件：`Markdown All in One`、`Markdown Preview Enhanced`
 
-预览使用Preview，编写使用All in One很方便，例如选择图片它会自动帮你查找目录下的图片文件，选择即可。
+预览使用`Preview`，编写使用`All in One`很方便，例如选择图片它会自动帮你查找目录下的图片文件，选择即可。
 
-vscode也有终端控制台，带预览地编写完成md文件可以直接在终端控制台进行git操作把文章提交到git仓库。
+`vscode`也有终端控制台，带预览地编写完成md文件可以直接在终端控制台进行git操作把文章提交到git仓库。
