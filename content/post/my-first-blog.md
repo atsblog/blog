@@ -34,18 +34,17 @@ draft: false
 正文开始......
 ```
 
-* 如果使用工具-hugo
-
-如果只简单使用markdown编辑工具可以只参考上面两个小节手动编辑头部+正文内容即可。
-
-如果希望使用工具建议使用hugo，可以安装hugo客户端
-用法：
-```
-hugo new post/106.md
-```
-
-其实也只是帮忙生成头部信息。
 
 * github说明
 
 目前博客内容托管在github上，如果想投稿可以pull request进行投稿，如果想长期编写博客，可以联系直接添加到项目成员中。
+
+* 客户端工具推荐-vscode
+
+如果没有好用的客户端工具，推荐vscode
+
+安装插件：Markdown All in One、Markdown Preview Enhanced
+
+预览使用Preview，编写使用All in One很方便，例如选择图片它会自动帮你查找目录下的图片文件，选择即可。
+
+vscode也有终端控制台，带预览地编写完成md文件可以直接在终端控制台进行git操作把文章提交到git仓库。
